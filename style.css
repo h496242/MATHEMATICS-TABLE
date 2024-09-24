@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+    font-size: 25px;
+   word-spacing: 2px;
+}
+
+body{
+    padding-left: 10px;
+    padding-top: 10px;
+    color: rgb(14, 199, 212);
+    background-image: url(https://i.pinimg.com/1200x/48/02/5a/48025aa532f549ee34f27bc311556e52.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
